@@ -7,7 +7,7 @@ Katherine Johnson tribute page
 ### Development Stages
 
 - [x] Basic document structure with plain HTML
-- [ ] Make image responsive using HTML
+- [ ] Make image responsive using HTML **\<srcset\>**
 - [ ] Page styled with CSS
 
 **Demo:** https://giovana-oliveira.github.io/tribute-page/
