@@ -8,7 +8,8 @@ Katherine Johnson tribute page
 
 - [x] Basic document structure with plain HTML
 - [ ] Make image responsive using HTML **\<srcset\>**
-- [ ] Page styled with CSS
+- [ ] Style page with CSS
+- [ ] Add interactive elements
 
 **Demo:** https://giovana-oliveira.github.io/tribute-page/
 
